@@ -4,7 +4,6 @@ public interface TestInterface {
 	void m();
 	void m2();
 	void m3();
-	void m4();
 	/**
 	 * 提交内容：
 	 * commit and push提交到本地仓库和远程仓库，commit只是提交到本地仓库
